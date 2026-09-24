@@ -247,4 +247,4 @@ This repository serves as the official landing page for Voicemeeter. The softwar
 **Get the most recent version of Voicemeeter today!**
 
 ---
-**Last updated:** 2026-09-24 01:07:18 UTC
+**Last updated:** 2026-09-24 07:15:34 UTC
